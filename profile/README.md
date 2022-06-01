@@ -1,1 +1,1 @@
-<img src="profile/lab_picture_2022.jpg" alt="ab picture" width="1000"/>
+<img src="profile/lab_picture_2022.jpg" alt="ab picture" width="500"/>
