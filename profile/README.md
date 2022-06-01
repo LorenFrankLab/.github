@@ -1,1 +1,1 @@
-![lab picture](lab_picture_2022.jpg)
+![lab picture](profile/lab_picture_2022.jpg)
