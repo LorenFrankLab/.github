@@ -1,1 +1,1 @@
-![lab picture](../imgs/lab_picture_2022.jpg)
+![lab picture](lab_picture_2022.jpg)
