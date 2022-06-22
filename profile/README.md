@@ -4,7 +4,7 @@ https://franklab.ucsf.edu/
 <img src="profile/lab_picture_2022.jpg" alt="lab picture" width="250"/>
 
 #### Main Data Processing Pipelines
-+ [spyglass](https://github.com/LorenFrankLab/spyglass) - Neuroscience data analysis framework
++ [spyglass](https://github.com/LorenFrankLab/spyglass) - Neuroscience data analysis framework using NWB files and Datajoint pipelines
 + [rec_to_nwb](https://github.com/LorenFrankLab/rec_to_nwb) - Convert trodes .rec files to the NWB 2.0 data format
 + [franklabnwb](https://github.com/LorenFrankLab/franklabnwb) - Example YAML files for using `rec_to_nwb`
 
