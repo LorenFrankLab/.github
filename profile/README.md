@@ -12,6 +12,7 @@ https://franklab.ucsf.edu/
 + [track_linearization](https://github.com/LorenFrankLab/track_linearization) - Convert 2D position to 1D position
 + [replay_trajectory_classification](https://github.com/Eden-Kramer-Lab/replay_trajectory_classification) - Decode and categorize trajectories from spiking data
 + [ripple_detection](https://github.com/Eden-Kramer-Lab/ripple_detection) - Detect ripples using the LFP
++ [position_tools](https://github.com/LorenFrankLab/position_tools) - Tools for calculating smoothed 2D position, speed, head direction from LEDs on head stage
 
 #### Code for Papers
 + [Gillespie AK, Astudillo Maya DA, Denovellis EL, Liu DF, Kastner DB, Coulter ME, et al. Hippocampal replay reflects specific past experiences rather than a plan for subsequent choice. Neuron. 2021 Aug;S0896627321005730. 
