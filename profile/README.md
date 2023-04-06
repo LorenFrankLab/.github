@@ -6,7 +6,7 @@ https://franklab.ucsf.edu/
 #### Main Data Processing Pipelines
 + [spyglass](https://github.com/LorenFrankLab/spyglass) - Neuroscience data analysis framework using NWB files and Datajoint pipelines
 + [rec_to_nwb](https://github.com/LorenFrankLab/rec_to_nwb) - Convert trodes .rec files to the NWB 2.0 data format
-+ [franklabnwb](https://github.com/LorenFrankLab/franklabnwb) - Example YAML files for using `rec_to_nwb`
++ [NWB Yaml creator](https://github.com/LorenFrankLab/rec_to_nwb_yaml_creator) - Create standardized metadata YAML files for use with `rec_to_nwb`
 
 #### Useful Data Processing Packages 
 + [track_linearization](https://github.com/LorenFrankLab/track_linearization) - Convert 2D position to 1D position
