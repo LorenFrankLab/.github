@@ -28,5 +28,5 @@ Our laboratory focuses on the circuitry of the hippocampus and anatomically rela
 + Denovellis EL, Gillespie AK, Coulter ME, Sosa M, Chung JE, Eden UT, et al. **Hippocampal replay of experience at real-world speeds.** eLife. 2021 Sep 27;10:e64505.
 [[Paper]](http://dx.doi.org/10.7554/eLife.64505)
 [[Code]](https://github.com/Eden-Kramer-Lab/replay_trajectory_paper)
-[[Data]](https://doi.org/10.6080/K0NK3BZJ)
+[[Data]](https://doi.org/10.7272/Q61N7ZC3)
 
