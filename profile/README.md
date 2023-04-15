@@ -17,8 +17,16 @@ Our laboratory focuses on the circuitry of the hippocampus and anatomically rela
 + [position_tools](https://github.com/LorenFrankLab/position_tools) - Tools for calculating smoothed 2D position, speed, head direction from LEDs on head stage
 
 #### Code for Papers
-+ Joshi, A., Denovellis, E.L., Mankili, A., Meneksedag, Y., Davidson, T.J., Gillespie, A.K., Guidera, J.A., Roumis, D., and Frank, L.M. (2023). **Dynamic synchronization between hippocampal representations and stepping.** Nature. 10.1038/s41586-023-05928-6.[[Code]](https://github.com/LorenFrankLab/Joshi_et_al_2023)
-+ Gillespie AK, Astudillo Maya DA, Denovellis EL, Liu DF, Kastner DB, Coulter ME, et al. **Hippocampal replay reflects specific past experiences rather than a plan for subsequent choice.** Neuron. 2021 Aug;S0896627321005730. 
++ Joshi, A., Denovellis, E.L., Mankili, A., Meneksedag, Y., Davidson, T.J., Gillespie, A.K., Guidera, J.A., Roumis, D., and Frank, L.M. (2023). **Dynamic synchronization between hippocampal representations and stepping.** Nature. 10.1038/s41586-023-05928-6.
+[[Paper]](http://dx.doi.org/10.1038/s41586-023-05928-6)
+[[Code]](https://github.com/LorenFrankLab/Joshi_et_al_2023)
+[[Data]](https://dandiarchive.org/dandiset/000410/draft)
++ Gillespie AK, Astudillo Maya DA, Denovellis EL, Liu DF, Kastner DB, Coulter ME, et al. **Hippocampal replay reflects specific past experiences rather than a plan for subsequent choice.** Neuron. 2021 Aug;S0896627321005730.
+[[Paper]](http://dx.doi.org/10.1016/j.neuron.2021.07.029)
 [[Code]](https://github.com/LorenFrankLab/Gillespie_Neuron_2021)
-+ Denovellis EL, Gillespie AK, Coulter ME, Sosa M, Chung JE, Eden UT, et al. **Hippocampal replay of experience at real-world speeds.** eLife. 2021 Sep 27;10:e64505. [[Code]](https://github.com/Eden-Kramer-Lab/replay_trajectory_paper)
+[[Data]](https://doi.org/10.48324/dandi.000115/0.210914.1732)
++ Denovellis EL, Gillespie AK, Coulter ME, Sosa M, Chung JE, Eden UT, et al. **Hippocampal replay of experience at real-world speeds.** eLife. 2021 Sep 27;10:e64505.
+[[Paper]](http://dx.doi.org/10.7554/eLife.64505)
+[[Code]](https://github.com/Eden-Kramer-Lab/replay_trajectory_paper)
+[[Data]](https://doi.org/10.6080/K0NK3BZJ)
 
