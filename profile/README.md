@@ -17,7 +17,7 @@ Our laboratory focuses on the circuitry of the hippocampus and anatomically rela
 + [position_tools](https://github.com/LorenFrankLab/position_tools) - Tools for calculating smoothed 2D position, speed, head direction from LEDs on head stage
 
 #### Code for Papers
-+ Joshi, A., Denovellis, E.L., Mankili, A., Meneksedag, Y., Davidson, T.J., Gillespie, A.K., Guidera, J.A., Roumis, D., and Frank, L.M. (2023). **Dynamic synchronization between hippocampal representations and stepping.** Nature. 10.1038/s41586-023-05928-6.
++ Joshi, A., Denovellis, E.L., Mankili, A., Meneksedag, Y., Davidson, T.J., Gillespie, A.K., Guidera, J.A., Roumis, D., and Frank, L.M. (2023). **Dynamic synchronization between hippocampal representations and stepping.** Nature. 2023 Apr 12;10.1038/s41586-023-05928-6.
 [[Paper]](http://dx.doi.org/10.1038/s41586-023-05928-6)
 [[Code]](https://github.com/LorenFrankLab/Joshi_et_al_2023)
 [[Data]](https://dandiarchive.org/dandiset/000410/draft)
