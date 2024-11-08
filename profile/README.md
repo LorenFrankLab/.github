@@ -3,7 +3,7 @@ https://franklab.ucsf.edu/
 
 Our laboratory focuses on the circuitry of the hippocampus and anatomically related regions.   We use a combination of techniques, including large scale multielectrode recording, real-time signal processing and targeted optogenetic interventions and behavioral manipulations of awake, behaving animals to understand how the brain learns, remembers and decides.
 
-<img src="profile/lab_picture_2022.jpg" alt="lab picture" width="250"/>
+<img src="lab_picture_2022.jpg" alt="lab picture" width="250"/>
 
 #### Main Data Processing Pipelines
 + [spyglass](https://github.com/LorenFrankLab/spyglass) - Neuroscience data analysis framework using NWB files and Datajoint pipelines
