@@ -17,6 +17,9 @@ Our laboratory focuses on the circuitry of the hippocampus and anatomically rela
 + [position_tools](https://github.com/LorenFrankLab/position_tools) - Tools for calculating smoothed 2D position, speed, head direction from LEDs on head stage
 
 #### Code for Papers
++ Coulter, M.E., Gillespie, A.K., Chu, J., Denovellis, E.L., Nguyen, T.T.K., Liu, D.F., Wadhwani, K., Sharma, B., Wang, K., Deng, X., et al. (2025). **Closed-loop modulation of remote hippocampal representations with neurofeedback.** Neuron 113, 949-961.e3.
+[[Paper]](https://doi.org/10.1016/j.neuron.2024.12.023)
+[[Code]](https://github.com/LorenFrankLab/hippocampus_content_neurofeedback)
 + Joshi, A., Denovellis, E.L., Mankili, A., Meneksedag, Y., Davidson, T.J., Gillespie, A.K., Guidera, J.A., Roumis, D., and Frank, L.M. (2023). **Dynamic synchronization between hippocampal representations and stepping.** Nature. 2023 Apr 12;10.1038/s41586-023-05928-6.
 [[Paper]](http://dx.doi.org/10.1038/s41586-023-05928-6)
 [[Code]](https://github.com/LorenFrankLab/Joshi_et_al_2023)
