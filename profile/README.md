@@ -17,6 +17,9 @@ Our laboratory focuses on the circuitry of the hippocampus and anatomically rela
 + [position_tools](https://github.com/LorenFrankLab/position_tools) - Tools for calculating smoothed 2D position, speed, head direction from LEDs on head stage
 
 #### Code for Papers
++ Joshi, A., Comrie, A.E., Bray, S., Mankili, A., Guidera, J.A., Nevers, R., Sun, X., Monroe, E., Kharazia, V., Ly, R., et al. (2025). Disruption of theta-timescale spiking impairs learning but spares hippocampal replay. bioRxiv, 2025.09.15.675587.
+[[Paper]](https://doi.org/10.1016/j.neuron.2024.12.023)
+[[Code]](https://github.com/LorenFrankLab/ms_stim_analysis)
 + Coulter, M.E., Gillespie, A.K., Chu, J., Denovellis, E.L., Nguyen, T.T.K., Liu, D.F., Wadhwani, K., Sharma, B., Wang, K., Deng, X., et al. (2025). **Closed-loop modulation of remote hippocampal representations with neurofeedback.** Neuron 113, 949-961.e3.
 [[Paper]](https://doi.org/10.1016/j.neuron.2024.12.023)
 [[Code]](https://github.com/LorenFrankLab/hippocampus_content_neurofeedback)
